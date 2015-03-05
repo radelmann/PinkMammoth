@@ -1,0 +1,60 @@
+
+.fp-WallContainer ,.fp-container ,.fp-PhotoGallery , .fp-PostFooterBox,.fp-EventsContainer,#walleribox-wrap{background:transparent;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;color:#333;line-height:1.28;margin:0;padding:0;text-align:left;direction:ltr;unicode-bidi:embed}
+.fp-WallContainer a,.fp-container a,.fp-PhotoGallery a, .fp-EventsContainer a{text-decoration: none; color:#3B5998;}
+.fp-WallContainer a:hover,fp-container a:hover, .fp-PhotoGallery a:hover,.fp-EventsContainer a:hover{text-decoration: underline;}
+.fp-WallContainer img,.fp-container img,.fp-PhotoGallery img, .fp-EventsContainer img{border:none; background: transparent; padding: 0px;}
+.fp-WallContainer ul,.fp-container ul,.fp-PhotoGallery ul, .fp-EventsContainer ul{list-style: none !important; padding: 0px !important; margin: 0px !important;}
+.fp-WallContainer input[type=text]{height:20px;padding: 0px; background: #fff;}
+.fp-container{padding-bottom: 20px; display:block; }
+.fp-container img,.fp-albumContainerWrap img { max-width: none !important;height: auto;}
+.fp-Hide{display: none;}
+.fp-Clear                  {zoom:1}
+.fp-Clear::after            {clear: both;
+                             content: ".";
+                             display: block;
+                             font-size: 0;
+                             height: 0;
+                             line-height: 0;
+                             visibility: hidden;}
+.fp-Gray{
+    color:gray;
+}
+.fp-BottomBar       {width:100%; 
+                     display:block;
+                     background-color: #EDEFF4;
+                     border: 1px solid #D8DFEA;
+                     text-align: center;
+                     height:30px;
+                     line-height: 30px;
+                     cursor:pointer;
+
+
+}
+.fp-Loadmore {color:#3B5998;}
+.fp-Loadmore img{margin: 0 5px;}
+.fp-ImgBlockContent         {display: table-cell;
+                             vertical-align: top;
+                             width: auto;
+                             position: relative;}
+.fp-BeforeTxt                {width:10000px;}
+           .fp-CommentBox             {display:block;}
+           .fp-PrePost, .fp-PreComment, .fp-PhotoPreComment{font-size: 11px; min-height:20px;line-height: 13px; padding: 0px;color:#777777;overflow: hidden;background-color: transparent;
+                                                 border: none;
+                                                 outline:none;
+                                                 resize:none;
+                                                 width: 100%;
+                                                 -moz-box-shadow: none;
+                                                 -webkit-box-shadow: none;
+                                                 box-shadow: none;
+}
+.fp-TextAreaWrap{ background: none repeat scroll 0 0 #FFFFFF;
+                  border-color: #BDC7D8;
+                  border-style: solid;
+                  border-width: 1px ;
+                  cursor: default;
+                  position: relative;
+                  padding: 3px;
+                  display: block;
+                  height:auto;}
+.ImgBlockWrapper {margin: 5px;}
+.fp-CommenterImg{width:32px; height:32px;}

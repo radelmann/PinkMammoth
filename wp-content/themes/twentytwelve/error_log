@@ -1,0 +1,2 @@
+[25-May-2014 05:26:13] PHP Fatal error:  Call to undefined function  get_header() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/themes/twentytwelve/tag.php on line 14
+[30-May-2014 23:33:55] PHP Fatal error:  Call to undefined function  get_header() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/themes/twentytwelve/404.php on line 10

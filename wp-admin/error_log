@@ -1,0 +1,9 @@
+[02-Feb-2012 07:51:21] PHP Parse error:  syntax error, unexpected '}' in /home5/pinkmamm/public_html/wp-content/plugins/vertical-response-newsletter-widget/vertical-response-widget.php on line 590
+[02-Feb-2012 07:51:33] PHP Parse error:  syntax error, unexpected '}' in /home5/pinkmamm/public_html/wp-content/plugins/vertical-response-newsletter-widget/vertical-response-widget.php on line 590
+[02-Feb-2012 07:51:38] PHP Parse error:  syntax error, unexpected '}' in /home5/pinkmamm/public_html/wp-content/plugins/vertical-response-newsletter-widget/vertical-response-widget.php on line 590
+[02-Feb-2012 07:51:41] PHP Parse error:  syntax error, unexpected '}' in /home5/pinkmamm/public_html/wp-content/plugins/vertical-response-newsletter-widget/vertical-response-widget.php on line 590
+[02-Feb-2012 07:51:46] PHP Parse error:  syntax error, unexpected '}' in /home5/pinkmamm/public_html/wp-content/plugins/vertical-response-newsletter-widget/vertical-response-widget.php on line 590
+[02-Feb-2012 07:51:58] PHP Parse error:  syntax error, unexpected '}' in /home5/pinkmamm/public_html/wp-content/plugins/vertical-response-newsletter-widget/vertical-response-widget.php on line 590
+[02-Feb-2012 07:52:02] PHP Parse error:  syntax error, unexpected '}' in /home5/pinkmamm/public_html/wp-content/plugins/vertical-response-newsletter-widget/vertical-response-widget.php on line 590
+[04-Feb-2012 09:59:45] PHP Warning:  imagecreatefrompng(http://www.pinkmammoth.net/wp-content/uploads/2012/02/28896558484.png) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home5/pinkmamm/public_html/wp-admin/includes/image-edit.php on line 220

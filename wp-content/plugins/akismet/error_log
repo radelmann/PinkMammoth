@@ -1,0 +1,17 @@
+[24-Dec-2012 16:09:23] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/legacy.php on line 356
+[24-Dec-2012 16:09:24] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/legacy.php on line 356
+[30-May-2013 10:27:44] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/legacy.php on line 356
+[30-May-2013 10:27:44] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/legacy.php on line 356
+[30-May-2013 10:27:44] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/legacy.php on line 356
+[14-Sep-2013 05:47:52] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32
+[23-Mar-2014 04:41:33] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32
+[26-Apr-2014 04:25:31] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/legacy.php on line 356
+[27-Apr-2014 22:51:06] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32
+[13-May-2014 01:32:24] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32
+[15-May-2014 14:16:40] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/legacy.php on line 356
+[02-Jul-2014 10:34:23] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32
+[14-Oct-2014 18:03:46] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32
+[21-Oct-2014 20:30:51] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32
+[23-Nov-2014 12:11:17] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32
+[30-Jan-2015 23:31:59] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32
+[31-Jan-2015 06:16:19] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/akismet/akismet.php on line 32

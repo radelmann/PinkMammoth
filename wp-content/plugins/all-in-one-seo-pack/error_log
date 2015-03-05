@@ -1,0 +1,6 @@
+[26-Dec-2014 07:48:25] PHP Fatal error:  Call to undefined function  plugin_dir_path() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
+[26-Dec-2014 07:49:11] PHP Fatal error:  Call to undefined function  plugin_dir_path() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
+[26-Dec-2014 07:49:58] PHP Fatal error:  Call to undefined function  plugin_dir_path() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
+[27-Feb-2015 12:31:03] PHP Fatal error:  Call to undefined function  plugin_dir_path() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
+[01-Mar-2015 06:39:27] PHP Fatal error:  Call to undefined function  plugin_dir_path() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
+[02-Mar-2015 09:58:43] PHP Fatal error:  Call to undefined function  plugin_dir_path() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40

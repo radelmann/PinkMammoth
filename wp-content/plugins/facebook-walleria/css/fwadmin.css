@@ -1,0 +1,63 @@
+/* 
+    Document   : fwadmin
+    Created on : Nov 26, 2012, 10:42:52 PM
+    Author     : fchari
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.fep-clearFix {
+	display: inline-block;
+}
+.fep_reset{
+background: red;
+border-spacing: 0;
+border: 0;
+color: black;
+cursor: auto;
+direction: ltr;
+font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+font-size: 11px;
+font-style: normal;
+font-variant: normal;
+font-weight: normal;
+letter-spacing: normal;
+line-height: 1;
+margin: 0;
+overflow: visible;
+padding: 0;
+text-align: left;
+text-decoration: none;
+text-indent: 0;
+text-shadow: none;
+text-transform: none;
+visibility: visible;
+white-space: normal;
+word-spacing: normal;
+}
+.fep_dialog{
+    background: rgba(82, 82, 82, .7);
+position: absolute;
+top: -10000px;
+z-index: 10001;
+padding:10px;
+border-radius:4px;
+}
+
+.fep_dialog_close_icon {
+background: url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;
+_background-image: url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);
+cursor: pointer;
+display: block;
+height: 15px;
+position: absolute;
+right: 18px;
+top: 17px;
+width: 15px;
+top: 8px	9;
+right: 7px	9;
+}
+.fep_dialog_content {
+background: white;
+color: #333;
+}

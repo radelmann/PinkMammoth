@@ -1,0 +1,714 @@
+# Copyright (C) 2013 Facebook Walleria
+# This file is distributed under the same license as the Facebook Walleria package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Walleria 3.0.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/facebook-walleria\n"
+"POT-Creation-Date: 2013-09-20 05:29:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: Admin/Templates/admin-tab-animations.php:1
+msgid "Animation Settings <span style=\"color:green\">(basic)</span>"
+msgstr ""
+
+#: Admin/Templates/admin-tab-animations.php:3
+msgid ""
+"These settings control the animations when opening and closing Fancybox, and "
+"the optional easing effects."
+msgstr ""
+
+#: Admin/Templates/admin-tab-animations.php:9
+msgid " Options"
+msgstr ""
+
+#: Admin/Templates/admin-tab-animations.php:15
+msgid "Change content transparency during  animations (default: on)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-animations.php:27
+msgid "Speed in miliseconds of the ing-in animation (default: 500)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-animations.php:39
+msgid "Speed in miliseconds of the ing-out animation (default: 500)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-animations.php:51
+msgid ""
+"Speed in miliseconds of the animation when navigating thorugh gallery items "
+"(default: 300)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:1
+msgid "Appearance Settings <span style=\"color:green\">(basic)</span>"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:3
+msgid ""
+"These setting control how Fancybox looks, they let you tweak color, borders "
+"and position of elements, like the image title and closing buttons."
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:8
+msgid "Gallery Type"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:25
+msgid "Gallery Frame Size"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:31
+msgid "Frame Width (default: 560)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:36
+msgid "Frame Height (default: 340)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:44
+msgid "Border Color"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:50
+msgid "Show Border (default: off)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:55
+msgid "HTML color of the border (default: #BBBBBB)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:63
+msgid "Close Button"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:69
+msgid "Show Close button (default: on)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:72
+msgid "Close button position:"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:75
+msgid "Left"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:80
+msgid "Right (default)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:85
+msgid "Bottom"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:90
+msgid "Top (default)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:98
+msgid "Padding"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:104
+msgid "HTML color of the padding (default: #FFFFFF)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:107
+msgid ""
+"(This should be left on #FFFFFF (white) if you want to display anything "
+"other than images, like inline or framed content)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:111
+msgid "Padding size in pixels (default: 10)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:119
+msgid "Overlay Options"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:125
+msgid "Add overlay (default: on)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:130
+msgid "HTML color of the overlay (default: #666666)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:143
+msgid "Opacity of overlay. 0 is transparent, 1 is opaque (default: 0.3)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:151
+msgid "Show Title"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:157
+msgid "Show the image title (default: on)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:164
+msgid " Title Position"
+msgstr ""
+
+#: Admin/Templates/admin-tab-appearance.php:178
+msgid "Position of title (default: outside)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:1
+msgid "Behavior Settings <span style=\"color:orange\">(medium)</span>"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:3
+msgid ""
+"The following settings should be left on default unless you know what you "
+"are doing."
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:9
+msgid "Auto Resize to Fit"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:15
+msgid "Scale images to fit in viewport (default: on)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:23
+msgid "Center on Scroll"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:29
+msgid ""
+"Keep image in the center of the browser window when scrolling (default: on)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:37
+msgid "Close on Content Click"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:43
+msgid "Close FancyBox by clicking on the image (default: off)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:46
+msgid ""
+"(You may want to leave this off if you display iframed or inline content "
+"that containts clickable elements - for example: play buttons for movies, "
+"links to other pages)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:53
+msgid "Close on Overlay Click"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:59
+msgid "Close FancyBox by clicking on the overlay sorrounding it (default: on)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:67
+msgid "Close with &quot;Esc&quot;"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:73
+msgid "Close FancyBox when &quot;Escape&quot; key is pressed (default: on)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:80
+msgid "Cyclic gallery;"
+msgstr ""
+
+#: Admin/Templates/admin-tab-behaviour.php:86
+msgid "Have the gallery going continuously cyclic (default: off)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:1
+msgid "Other Settings <span style=\"color:red\">(advanced)</span>"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:3
+msgid "These are additional settings for advanced users."
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:10
+msgid "Add Custom Gallery"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:15
+msgid ""
+"If you have a custom gallery, Place the code to call specific Walleria "
+"classes"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:25
+msgid "Callbacks"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:30
+msgid "Callback on Start event (default: empty)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:35
+msgid "Callback on Show event (default: empty)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:40
+msgid "Callback on Close event (default: empty)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:44
+msgid "Example:"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:48
+msgid "Leave the fields empty to disable."
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:55
+msgid "Load JavaScript in Footer"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:62
+msgid ""
+"Loads JavaScript at the end of the blog's HTML (experimental) (default: off)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-other.php:65
+msgid ""
+"This option won't be recognized if you use <strong>Parallel Load</strong> "
+"plugin. In that case, you can do this from Parallel Load's options."
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:24
+msgid ""
+"Facebook  Walleria will not be able to show wall or private albums unless "
+"you add a valid Application ID and Application Secret."
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:29
+msgid "Credentials"
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:34
+msgid "Facebook Walleria is set up and ready to use !"
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:51
+msgid "Your application's ID "
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:62
+msgid "Your application's secret (default:)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:69
+msgid "Envato (Codecanyon) Username"
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:75
+#: Admin/Templates/admin-tab-permissions.php:87
+#: Admin/Templates/admin-tab-permissions.php:99
+msgid "optional"
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:75
+msgid "Your username for login into Codecanyon: "
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:87
+msgid "Your secret API key generated at Codecanyon"
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:99
+msgid "The purchase code for walleria "
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:105
+msgid "Cache time (<a href=\"http://zoxion.com\">Help</a>)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:119
+msgid "Minutes to cache your data"
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:126
+msgid "Private User Albums?(<a href=\"http://zoxion.com\">Help</a>)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-permissions.php:134
+msgid ""
+"If you intend to fetch private user albums enable this option (default:"
+"Disabled)"
+msgstr ""
+
+#: Admin/Templates/admin-tab-support.php:1 Admin/Templates/admin.php:26
+msgid "Support"
+msgstr ""
+
+#: Admin/Templates/admin-tab-support.php:5
+msgid ""
+"If you have problems or questions about FancyBox itself (and not this "
+"WordPress plugin), please start with these links: <a target=\"_blank\" href="
+"\"http://fancybox.net/howto\">How-To</a> & <a target=\"_blank\" href="
+"\"http://fancybox.net/faq\">FAQ</a>.<br />If that does not help, go to <a "
+"href=\"http://groups.google.com/group/fancybox\">the FancyBox Google Group</"
+"a>, use the <strong>Search</strong> option, and if necesary, post your "
+"question."
+msgstr ""
+
+#: Admin/Templates/admin-tab-support.php:10
+msgid ""
+"If you are having trouble with this plugin try to localize the problem "
+"(switch your theme and deactivate plugins until you find the source of the "
+"problem). "
+msgstr ""
+
+#: Admin/Templates/admin-tab-support.php:11
+msgid "Try reverting these settings to their defaults with the button below."
+msgstr ""
+
+#: Admin/Templates/admin-tab-support.php:12
+msgid ""
+"If you still can not get the plugin to work, post a comment on <a href="
+"\"http://zoxion.com/fppg/\"> my blog </a>"
+msgstr ""
+
+#: Admin/Templates/admin-tab-support.php:15
+msgid "IMPORTANT:"
+msgstr ""
+
+#: Admin/Templates/admin-tab-support.php:15
+msgid ""
+"When posting your problem please provide a link to your blog, and all "
+"relevant information you can, especially your theme, plugins, etc."
+msgstr ""
+
+#: Admin/Templates/admin-tab-uninstall.php:1 Admin/Templates/admin.php:27
+msgid "Uninstall"
+msgstr ""
+
+#: Admin/Templates/admin-tab-uninstall.php:3
+msgid ""
+"Like many other plugins, Facebook Walleria stores its settings on your "
+"WordPress' options database table. Actually, these settings are not using "
+"more than a couple of kilobytes of space, but if you want to completely "
+"uninstall this plugin, check the option below, then save changes, and "
+"<strong>when you deactivate the plugin</strong>, all its settings will be "
+"removed from the database."
+msgstr ""
+
+#: Admin/Templates/admin-tab-uninstall.php:9
+msgid "Remove settings"
+msgstr ""
+
+#: Admin/Templates/admin-tab-uninstall.php:15
+msgid ""
+"Remove Settings when plugin is deactivated from the \"Manage Plugins\" page. "
+"(default: off)"
+msgstr ""
+
+#. #-#-#-#-#  facebook-walleria.pot (Facebook Walleria 3.0.6)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: Admin/Templates/admin.php:7
+msgid "Facebook Walleria"
+msgstr ""
+
+#: Admin/Templates/admin.php:21
+msgid "Facebook Permissions"
+msgstr ""
+
+#: Admin/Templates/admin.php:22
+msgid "Appearance"
+msgstr ""
+
+#: Admin/Templates/admin.php:23
+msgid "Animations"
+msgstr ""
+
+#: Admin/Templates/admin.php:24
+msgid "Behaviour"
+msgstr ""
+
+#: Admin/Templates/admin.php:25
+msgid "Other"
+msgstr ""
+
+#: Admin/Templates/admin.php:63
+msgid "Save Changes"
+msgstr ""
+
+#: Classes/Walleria/Core/WalleriaMessage.class.php:28
+msgid ""
+"Your Facebook Walleria access token is going to expire soon. Your site will "
+"not function well if it expires. Renew: "
+msgstr ""
+
+#: Classes/Walleria/Core/WalleriaMessage.class.php:29
+msgid "Facebook Walleria Token about to expire"
+msgstr ""
+
+#: Classes/Walleria/Core/WalleriaMessage.class.php:36
+msgid ""
+"Your Facebook Walleria access token is no longer valid, You need to renew it "
+"for your site to function properly. Renew: "
+msgstr ""
+
+#: Classes/Walleria/Core/WalleriaMessage.class.php:37
+msgid "Facebook Walleria Token has expired"
+msgstr ""
+
+#: Classes/Walleria/Utility/WalleriaUtility.class.php:92
+msgid " about a second ago"
+msgstr ""
+
+#: Classes/Walleria/Utility/WalleriaUtility.class.php:96
+msgid " seconds ago"
+msgstr ""
+
+#: Classes/Walleria/Utility/WalleriaUtility.class.php:100
+msgid " about a minute ago"
+msgstr ""
+
+#: Classes/Walleria/Utility/WalleriaUtility.class.php:105
+msgid " minutes ago"
+msgstr ""
+
+#: Classes/Walleria/Utility/WalleriaUtility.class.php:109
+msgid " about an hour ago"
+msgstr ""
+
+#: Classes/Walleria/Utility/WalleriaUtility.class.php:114
+msgid " hours ago"
+msgstr ""
+
+#: Classes/Walleria/Utility/WalleriaUtility.class.php:119
+#: Classes/Walleria/Utility/WalleriaUtility.class.php:124
+#: Classes/Walleria/Utility/WalleriaUtility.class.php:130
+msgid " at "
+msgstr ""
+
+#: Inc/text.php:3
+msgid "photos"
+msgstr ""
+
+#: Inc/text.php:4
+msgid "Back to albums"
+msgstr ""
+
+#: Inc/text.php:5 Inc/text.php:7
+msgid "Post"
+msgstr ""
+
+#: Inc/text.php:6
+msgid "Link"
+msgstr ""
+
+#: Inc/text.php:8
+msgid "Write something..."
+msgstr ""
+
+#: Inc/text.php:9
+msgid "Say something about this ..."
+msgstr ""
+
+#: Inc/text.php:10
+msgid "Write a comment..."
+msgstr ""
+
+#: Inc/text.php:11
+msgid "View All"
+msgstr ""
+
+#: Inc/text.php:12
+msgid "View"
+msgstr ""
+
+#: Inc/text.php:13
+msgid "View previous comments"
+msgstr ""
+
+#: Inc/text.php:14
+msgid "comments"
+msgstr ""
+
+#: Inc/text.php:15
+msgid "comment"
+msgstr ""
+
+#: Inc/text.php:16
+msgid "and"
+msgstr ""
+
+#: Inc/text.php:17
+msgid "others like this"
+msgstr ""
+
+#: Inc/text.php:18
+msgid "likes this"
+msgstr ""
+
+#: Inc/text.php:19
+msgid "people like this"
+msgstr ""
+
+#: Inc/text.php:20
+msgid "person likes this"
+msgstr ""
+
+#: Inc/text.php:21
+msgid "about a second ago"
+msgstr ""
+
+#: Inc/text.php:22
+msgid "about a minute ago"
+msgstr ""
+
+#: Inc/text.php:23
+msgid "about an hour ago"
+msgstr ""
+
+#: Inc/text.php:24
+msgid "seconds ago"
+msgstr ""
+
+#: Inc/text.php:25
+msgid "minutes ago"
+msgstr ""
+
+#: Inc/text.php:26
+msgid "hours ago"
+msgstr ""
+
+#: Inc/text.php:27
+msgid "Share"
+msgstr ""
+
+#: Inc/text.php:28
+msgid "via"
+msgstr ""
+
+#: Inc/text.php:29
+msgid "Location"
+msgstr ""
+
+#: Inc/text.php:30
+msgid "Created By"
+msgstr ""
+
+#: Inc/text.php:31
+msgid "More Info"
+msgstr ""
+
+#: Inc/text.php:32
+msgid "Time"
+msgstr ""
+
+#: Inc/text.php:33
+msgid "Map"
+msgstr ""
+
+#: Inc/text.php:34
+msgid "Error"
+msgstr ""
+
+#: Inc/text.php:35
+msgid "Comment Posted"
+msgstr ""
+
+#: Inc/text.php:36
+msgid "You like this"
+msgstr ""
+
+#: Inc/text.php:37
+msgid "Connect to view more"
+msgstr ""
+
+#: Inc/text.php:38
+msgid "View on Facebook"
+msgstr ""
+
+#: Inc/text.php:39
+msgid "View on"
+msgstr ""
+
+#: Inc/text.php:40
+msgid "Tag Photo"
+msgstr ""
+
+#: Templates/Facebook/albums.php:13
+msgid "Back to Albums"
+msgstr ""
+
+#: Templates/Facebook/albums.php:57
+#: Templates/Facebook/single-album-ajax.php:23
+#: Templates/Facebook/single-album.php:27 Templates/Facebook/wall.php:265
+msgid "Show more"
+msgstr ""
+
+#: Templates/Facebook/wall.php:87 Templates/Facebook/wallajax.php:80
+msgid "and "
+msgstr ""
+
+#: Templates/Facebook/wall.php:87 Templates/Facebook/wallajax.php:80
+msgid " others like this"
+msgstr ""
+
+#: Templates/Facebook/wall.php:89 Templates/Facebook/wall.php:102
+#: Templates/Facebook/wallajax.php:82 Templates/Facebook/wallajax.php:95
+msgid " likes this"
+msgstr ""
+
+#: Templates/Facebook/wall.php:100 Templates/Facebook/wallajax.php:93
+msgid " people like this"
+msgstr ""
+
+#: Templates/Facebook/wall.php:196 Templates/Facebook/wallajax.php:189
+msgid "View more comments"
+msgstr ""
+
+#: Walleria.class.php:706
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: Walleria.class.php:711
+msgid "An unknown error occurred"
+msgstr ""
+
+#: Widgets/walleria-widgets.php:7
+msgid "Facebook Walleria Posts"
+msgstr ""
+
+#: Widgets/walleria-widgets.php:7
+msgid "This will show your Facebook Statuses on a side bar"
+msgstr ""
+
+#: Widgets/walleria-widgets.php:107
+msgid "Facebook Walleria Photo Album"
+msgstr ""
+
+#: Widgets/walleria-widgets.php:107
+msgid "This will show a chosen Facebook Album on a side bar"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://zoxion.com/walleria"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugins embeds your Facebook Photo , Albums  and Wall into Wordpress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Freeman Chari"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.zoxion.com"
+msgstr ""

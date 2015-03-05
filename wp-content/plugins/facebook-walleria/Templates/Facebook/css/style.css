@@ -1,0 +1,462 @@
+/* 
+Document   : style.css
+Created on : Dec 15, 2012, 5:00:27 PM
+Author     : fchari
+Description:
+Purpose of the stylesheet follows.
+*/
+
+/* --------------------------------Album--------------------*/
+
+.fp-PhotoThumbWrap          {display: inline-block; margin:2px;}
+.fp-PhotoThumbLink          {background: white;
+                             border: 1px solid #CCC;
+                             display: -moz-inline-box;
+                             display: inline-block;
+                             outline: none;
+                             padding: 4px;
+                             position: relative;
+                             vertical-align: bottom;
+                             cursor: pointer;
+                             color: #3B5998;
+                             box-shadow: 1px 1px 5px #ccc;
+                             -moz-box-shadow:1px 1px 5px #ccc;
+                             -webkit-box-shadow:1px 1px 5px #ccc;
+                             -moz-outline-style: none;
+                             text-decoration: none;}
+.fp-PhotoThumbLink i, .fp-PhotoThumbLink span     {background-color: #EEE;
+                           background-position: center 25%;
+                           background-repeat: no-repeat;
+                           display: block;
+                            overflow: hidden;
+
+}
+.fp-PhotoSmallThumb i ,.fp-PhotoSmallThumb span  {width:120px;
+                         height:80px} 
+.fp-PhotoMediumThumb i, .fp-PhotoMediumThumb span {width:161px;
+                          height:120px;
+                          overflow: hidden;
+} 
+.fp-PhotoLargeThumb i , .fp-PhotoLargeThumb span {width:206px;
+                         height:206px;
+                         overflow: hidden;
+} 
+
+/*------------------------------Albums-----------------------------------------*/
+.fp-albumContainerWrap{
+    position: relative;
+}
+.fp-mainAlbWrapper{ float: left;
+                    display: block;
+                    margin: 4px 8px;
+                    vertical-align: top;
+}
+
+.fp-mainLargeWrapper{
+    min-height: 250px;
+    height: 250px;
+}
+.fp-mainMediumWrapper{
+    min-height: 173px;
+    height: 173px;
+}
+.fp-mainSmallWrapper{
+                    min-height: 132px;
+                    height: 132px;
+}
+.fp-albThumbWrap{background: white;
+                 display: block;
+                 padding: 4px;
+                 position: absolute;
+                 top:4px;
+                 border: 1px solid #ccc;
+
+
+}
+.fp-albThumbLink            {background: #FFF;
+                             border: 1px solid #ccc;
+                             display: -moz-inline-box;
+                             display: inline-block;
+                             outline: none;
+                             padding-left: 4px;
+                             position: relative;
+                             vertical-align: bottom;
+                             margin-bottom: 10px;
+                             margin-top: 5px;}
+.fp-albThumbLink:hover, .fp-albThumbWrap:hover{border:1px solid #3B5998;}
+.fp-albThumbWrap i          {background-color: #EEE;
+                             background-position: center 25%;
+                             background-repeat: no-repeat;
+                             display: block;}
+
+.fp-albLargeLink,.fp-albLargeThumb i{        width:206px;
+                                             height:206px;
+
+}
+.fp-albMediumLink,.fp-albMediumThumb i{       width:161px;
+                                              height:120px;
+
+}
+.fp-albSmallLink,.fp-albSmallThumb i{        width:120px;
+                                             height:80px;    
+}
+
+
+.fp-photoDetails            {padding: 3px 0;
+                             font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+                             font-size: 10px;
+                                line-height: 10px;}
+.fp-photoDetails a          {font-weight:bold;
+                             color:#3B5998;
+
+}
+.fp-photoLargeDetails  {
+    width:206px
+}
+.fp-photoMediumDetails  {
+    width:161px
+}
+.fp-photoSmallDetails  {
+    width:120px;
+}
+.fp-DescLargeLink{
+    font-size:1.2em;
+}
+.fp-DescMediumLink{
+    font-size:1.1em;
+}
+
+.fp-DescSmallLink{
+    font-size:1em;
+}
+
+.fp-loader                  {display: block; text-align: center;}
+.fp-PhotoCount              {color:#666;  clear: both; }
+
+/*------------------------------Wall-----------------------------------------*/
+.fp-WallContainer           {font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+                             color: #333;
+                             text-align: left;
+                             direction: ltr;
+                             line-height: 1.28;
+
+}
+.fp-WallContainer a        {cursor: pointer;
+                            color: #3B5998;
+                            text-decoration: none;}
+.fp-WallContainer a:hover   {text-decoration: underline;}
+.fp-ContentWrapper          {  word-wrap:break-word;}
+.fp-ContentWrapper img      {padding: 0px;}
+.fp-ProfileHeader h1           {color: #1C2A47;
+                                font-size: 20px;
+                                display:inline-block;
+
+}
+.fp-PageCategory            {}
+.fp-PhotoStrip              {overflow: hidden;
+                             height:70px}
+.fp-AlbumContainer,.fp-PhotoContainer {padding: 0px;position:relative;}
+.fp-PhotoContainer {        background: white;
+                            border: 1px solid #C4CDE0;
+                            border-radius:2px;
+                            box-shadow: 1px 1px 1px 1px #EEE;
+                            padding: 5px;
+                            text-align: center;
+                            zoom:1;
+                            *display:inline;
+}
+.fp-PhotoContainerHeader{
+                            
+}
+.fp-Remove                 {background-image: url(images/fb_icons.png);
+                            background-repeat: no-repeat;
+                            background-size: auto;
+                            background-position: -709px -45px;
+                            display: inline-block;
+                            height: 12px;
+                            margin-left: 5px;
+                            vertical-align: top;
+                            width: 11px;
+                            position: absolute;
+                            top:5px;
+                            right:5px;
+}
+.fp-ShowAlbums              {margin-left: 20px;
+                             background-color:#d8dfea;
+
+                             padding:2px;
+                             display: none;}
+.fp-ShowAlbums span:hover       {text-decoration: underline;
+}
+.fp-ShowAlbums  span         { line-height: 32px;cursor: pointer;float: left;}
+.fp-ShowAlbums i           {width:32px; 
+                            height:32px;
+                            background: url('images/album.png') no-repeat; 
+                            display: block;
+                            margin-right: 5px;
+                            float:left;
+}
+ul.fp-ProfileStream   {list-style-type: none;
+                       margin: 0;
+                       padding: 0;
+                       display: block;
+
+}
+ul.fp-CommentsBody       {list-style: none;
+                          margin: 0;
+                          padding: 0;
+                          display:block;}
+.fp-ProfilePhotoThumb,
+.fp-ProfilePhotoThumb:hover  { padding: 1px; border: none;}
+.fp-ProfilePhotoThumb  i     {height: 68px;
+                              width: 97px;}
+.fp-WidgetPhoto            {}
+.fp-WidgetPhoto i           {}
+.fp-WidgetTitle             {font-weight: bold;}
+.fp-WidgetFbLink  {clear:both;}     
+.fp-WidgetFbLink  a {color:#3B5998;
+                     display: inline-block;
+                     line-height: 16px;}                            
+.fp-WidgetFbLink i{background-image: url(images/facebook.png);
+                   background-repeat: no-repeat;
+                   background-position: center center;
+                   display: inline-block;
+                   height: 16px;
+                   float: left;
+                   width: 16px;
+                   margin-right: 5px}
+.fp-WallBar                 {background-color: #F2F2F2;
+                             border-bottom: none;
+                             border-top: solid 1px #E2E2E2;
+                             margin:5px 0;
+                             padding: 4px 5px 5px;
+}
+.fp-WallBar h3              {font-weight: bold;
+                             margin: 0 0 0 10px;
+                             text-transform:none;
+                             font-size: 11px;
+}
+.fp-StreamWrapper             {border-bottom:1px solid #E9E9E9;
+                              padding: 10px;
+                               display: block;}
+.fp-FeedContent            { display: block;
+
+}
+.fp-innerStreamContent        {
+                            background: white;
+                            border: 1px solid #C4CDE0;
+                            border-radius:2px;
+                            box-shadow: 1px 1px 1px 1px #EEE;
+                            padding: 10px;
+}
+
+
+.fp-ActorName                 {font-weight: bold;}
+.fp-ActorName a               {word-wrap:break-word;}
+.fp-ActorPhoto                 {float: left;
+                                margin-right: 10px;
+}
+.fp-ActorPhoto img          {
+                               width:32px;
+                               height: 32px;
+}
+.fp-BlockImage                {float:left; margin-right:5px; }
+.fp-StreamHeader                   {display: block;
+                                    color: black;
+                                    font-size: 11px;
+                                    font-weight: normal;
+                                    margin: 0 0 5px 0;
+                                    border-bottom: 1px solid #E5E5E5;}
+.fp-Attachment              {background: #F6F7F9;
+                            border: 1px solid #D3DAE8;
+                            display: block;
+                            margin-bottom: 12px;
+                            padding: 10px;
+                            font-size: 11px;
+                            margin: 10px 20px;
+                            }
+.fp-Attachment a  .fp-wallPic  {max-width: 100%;
+                                margin-right: 10px;
+}
+.fp-PhotoLink   img {
+                    max-width:100%;
+}
+.fp-WallVideoThumb          {border: 0;
+                             float: left;
+                             overflow: hidden;
+                             position: relative;}
+.fp-WallVideoThumb i        {background: url(images/player.png) no-repeat 0 0;
+                             bottom: 0;
+                             height: 32px;
+                             left: 0;
+                             position: absolute;
+                             width: 39px;
+                             z-index: 1;
+                    }
+.fp-MetaDetail              {display: table-cell;
+                             vertical-align: top;
+                             word-wrap: break-word;
+                             width:10000px;
+
+                             color:gray;}
+.fp-MetaTitle               {word-wrap:break-word;}
+.fp-MetaTitle a             {word-wrap:break-word;}
+.fp-MetaCaption             {  }
+.fp-MetaDescription         {word-wrap: break-word; }
+.fp-Clear                  {zoom:1}
+.fp-Clear::after            {clear: both;
+                             content: ".";
+                             display: block;
+                             font-size: 0;
+                             height: 0;
+                             line-height: 0;
+                             visibility: hidden;}
+.fp-WallPhotoThumb         {border: 1px solid #CCC; float:left; margin-right: 10px;}
+.fp-WallPhotoThumb img       {margin: 3px;
+                              float: left;}
+.fp-WallPhotoThumb:hover   {border: 1px solid #3b5998;}
+.fp-WallLinkThumb          {float:left;
+                            margin-right: 10px;}
+.fp-WallVideoThumb img    {max-height: 130px;
+                           max-width: 130px;}
+.fp-WallLinkThumb  img     {max-width:90px;
+                            max-height: 90px;
+                            float:left;}
+.fp-MetaProperties          {display:block;}
+.fp-Message                 {word-wrap: break-word;
+                             display:block;
+}
+.fp-MetaProperties .fp-MetaPropertiesText{color: black}
+.fp-CommentShareBtn         {color:#999;clear:both}
+.fp-CommentShareBtn a       {color:#999;}
+.fp-CommentShareBtn i      {background-repeat: no-repeat;
+                            width:16px;
+                            height: 15px;
+                            display: inline-block;
+                            float: left;
+                            margin-right: 5px;}
+.fp-ActionDeck           {font-size:11px;}
+.fp-ActionDeck a       { color: #3B5998; margin: 5px;}
+
+
+.fp-LikesCountWrapper       {background-color: #EDEFF4;
+                             border-bottom: 1px solid #E5EAF1;
+                             margin-top: 2px;
+                             padding: 5px 5px 4px;}
+.fp-LikeHandIcon            {background-image: url(http://static.ak.fbcdn.net/rsrc.php/v1/yj/r/FSEB6oLTK3I.png);
+                             background-repeat: no-repeat;
+                             background-position: -25px -154px;
+                             margin-right:3px;
+                             display: block;
+                             height: 13px;
+                             width: 15px;
+                             float:left;}
+.fp-PostFooterBox          {padding-top: 2px;
+                           font-size: 11px;
+}
+.fp-ImgBlockContent         {display: table-cell;
+                             vertical-align: top;
+                             width: auto;
+                             position: relative;}
+.fp-BeforeTxt                {width:10000px;}
+
+.fp-TinyTopPointer i       {background-image: url(http://static.ak.fbcdn.net/rsrc.php/v1/yf/r/_IKHHfAgFQe.png);
+                            background-repeat: no-repeat;
+                            background-position: -180px -152px;
+                            display: block;
+                            height: 5px;
+                            margin-left: 17px;
+                            width: 9px;}
+.fp-TinyTopPointer        {margin-bottom: -2px;
+                           margin-top: 0;
+}
+.fp-FooterItemWrapper      {background-color: #EDEFF4;
+                            border-bottom: 1px solid #E5EAF1;
+                            margin: 2px 0 !important;
+                            padding: 5px 5px 4px;
+                            word-wrap:break-word;
+                              }
+                              
+.fp-CommentSpan            { word-wrap:break-word;display: table-cell;
+                             vertical-align: top;
+                             width: 10000px;}
+
+.fp-CommentsBar  i         {background-image: url(http://static.ak.fbcdn.net/rsrc.php/v1/yj/r/FSEB6oLTK3I.png);
+                            background-repeat: no-repeat;
+                            background-position: -158px -118px;
+                            display: inline-block;
+                            height: 16px;
+                            float:left;
+                            width: 16px;
+                            margin-right:5px;}
+
+.fp_LoadingImage           { position:absolute;
+                             top:0px;
+                             right: 0px;
+                             z-index: 10;
+
+}
+
+.fp-DateRep {color:#999; margin-top: 3px;}
+
+.left-scroll{
+    width:70px;
+    height: 150px;
+    background: url(images/left.png) center center transparent;
+    position: absolute;
+    top:30%;
+    left:-50px;
+    z-index: 1;
+    display: none;
+    cursor: pointer;
+
+}
+.right-scroll{
+    width:70px;
+    height: 150px;
+    background: url(images/right.png) center center transparent;
+    position: absolute;
+    top:30%;
+    right:20px;
+    z-index: 1;
+    display: none;
+    cursor: pointer;
+}
+.fp-container{position: relative;}
+.fp-container:hover .left-scroll,
+.fp-container:hover .right-scroll
+ {
+    display: block;
+}
+.fp-AlbumLoader{background:#fff;position:absolute;top:40%;left:40%;z-index:2}
+.fp-ProfilePhotoMedium{width:32px;height:32px;}
+
+/*----------------Widgets---------------------------*/
+.fp-StatusWidget{margin: 10px 0;}
+.fp-StatusWidget .fp-innerStreamContent {background-color: transparent;
+                                        border: none;
+                                        border-bottom: 1px solid #C4CDE0;
+                                        box-shadow: none;
+                                        margin-top: 10px;
+}
+.fp-StatusWidget .fp-StreamHeader {border:none}
+.fp-StatusWidget .fp-DateRep a{color:gray; font-size: 0.8em;}
+.fp-ShowAlbums              {
+margin: 10px 0;
+background-color: #EDEFF4;
+border: 1px solid #D8DFEA;
+text-align: center;
+height: 30px;
+line-height: 30px;
+cursor: pointer;
+                             display: none;}
+.fp-ShowAlbums span:hover       {text-decoration: underline;
+}
+.fp-ShowAlbums  span         { line-height: 32px;cursor: pointer;float: left;}
+.fp-ShowAlbums i           {width:32px; 
+                            height:32px;
+                            background: url('images/album.png') no-repeat; 
+                            display: block;
+                            margin-right: 5px;
+                            float:left;
+}

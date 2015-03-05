@@ -1,0 +1,1 @@
+[18-Sep-2014 21:27:08] PHP Fatal error:  Class 'WP_Widget' not found in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/facebook-walleria/Widgets/walleria-widgets.php on line 3
