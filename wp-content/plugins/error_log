@@ -10,3 +10,9 @@
 [21-Oct-2014 20:30:51] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/hello.php on line 60
 [30-Oct-2014 16:14:14] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/hello.php on line 60
 [27-Nov-2014 07:39:59] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/hello.php on line 60
+[30-Apr-2015 14:56:48] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/hello.php on line 60
+[04-May-2015 10:42:19] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/hello.php on line 60
+[05-May-2015 19:36:36] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/hello.php on line 60
+[06-May-2015 00:06:33] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/hello.php on line 60
+[15-May-2015 17:34:37] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/hello.php on line 60
+[21-May-2015 07:08:37] PHP Fatal error:  Call to undefined function  add_action() in /home5/pinkmamm/public_html/prod/pinkmammoth/wp-content/plugins/hello.php on line 60
