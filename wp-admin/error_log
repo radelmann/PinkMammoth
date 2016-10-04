@@ -7,3 +7,9 @@
 [02-Feb-2012 07:52:02] PHP Parse error:  syntax error, unexpected '}' in /home5/pinkmamm/public_html/wp-content/plugins/vertical-response-newsletter-widget/vertical-response-widget.php on line 590
 [04-Feb-2012 09:59:45] PHP Warning:  imagecreatefrompng(http://www.pinkmammoth.net/wp-content/uploads/2012/02/28896558484.png) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
  in /home5/pinkmamm/public_html/wp-admin/includes/image-edit.php on line 220
+[04-Oct-2016 03:50:50] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_usermeta ADD KEY meta_key (meta_key) made by wp_upgrade, make_db_current_silent, dbDelta
+[04-Oct-2016 03:50:50] WordPress database error Duplicate key name 'slug' for query ALTER TABLE wp_terms ADD UNIQUE KEY slug (slug) made by wp_upgrade, make_db_current_silent, dbDelta
+[04-Oct-2016 03:50:50] WordPress database error Duplicate key name 'name' for query ALTER TABLE wp_terms ADD KEY name (name) made by wp_upgrade, make_db_current_silent, dbDelta
+[04-Oct-2016 03:50:50] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_commentmeta ADD KEY meta_key (meta_key) made by wp_upgrade, make_db_current_silent, dbDelta
+[04-Oct-2016 03:50:50] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_postmeta ADD KEY meta_key (meta_key) made by wp_upgrade, make_db_current_silent, dbDelta
+[04-Oct-2016 03:50:50] WordPress database error Duplicate key name 'post_name' for query ALTER TABLE wp_posts ADD KEY post_name (post_name) made by wp_upgrade, make_db_current_silent, dbDelta
