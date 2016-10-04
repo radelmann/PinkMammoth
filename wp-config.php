@@ -24,7 +24,7 @@ define('DB_NAME', 'pinkmamm_wp1');
 define('DB_USER', 'pinkmamm_wp1');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Pink.love2012');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
