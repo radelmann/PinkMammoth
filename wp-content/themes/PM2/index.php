@@ -98,16 +98,6 @@ if (function_exists('wp_content_slider')) {
 <?php
 function getPodoIFrame()
 {
-    
-    $feed_url = "http://pinkmammoth.podomatic.com/rss2.xml";
-    $feed_entry_path = "http://pinkmammoth.podomatic.com/entry/";
-    $content = file_get_contents($feed_url);
-    $xml = new SimpleXmlElement($content);
-    $permlink = $xml->channel->item[0]->comments;
-    $entry = str_replace($feed_entry_path, '', $permlink);
-    $html = "<iframe height='85' width='620' frameborder='0' marginheight='0' marginwidth='0' scrolling='no' src='http://pinkmammoth.podomatic.com/embed/frame/posting/".$entry."?json_url=http%3A%2F%2Fpinkmammoth.podomatic.com%2Fentry%2Fembed_params%2F".$entry."%3Fcolor%3Df495b9%26autoPlay%3Dfalse%26width%3D620%26height%3D85%26objembed%3D0' allowfullscreen></iframe>";
-    
-    $html = '<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F112440729&amp;color=f495b9&amp;auto_play=false&amp;show_artwork=true"></iframe>';
 
 $html='<div class="art-postcontent"><h1><font color="#FF47A0">FOLLOW PINK MAMMOTH ON SOUNDCLOUD</font></h1><iframe src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F4985394%3Fsecret_token%3Ds-9rCxs&amp;color=f63d83&amp;auto_play=false&amp;show_artwork=true" frameborder="no" scrolling="no" width="100%" height="166"></iframe></div><br><hr class="event_hr">';
 
